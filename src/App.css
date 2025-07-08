@@ -1,0 +1,36 @@
+.body {
+ color: aqua;
+}
+
+
+
+.board-row {
+  display: flex;
+  align-items: center;
+
+}
+
+.board-container {
+  margin: 20px;
+  padding: 50px;
+  background-color:cornsilk;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+}
+
+.button {
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+  border-radius: 20%;
+  
+}
+
+
